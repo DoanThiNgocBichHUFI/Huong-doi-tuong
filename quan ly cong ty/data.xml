@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<tcongtys>
+	<tcongty>
+		<tencty>abc</tencty>
+			<congtys>
+				<congty>
+						<bophan>nvsx</bophan>
+						<manv>001</manv>
+						<tennv>tran thi my le</tennv>
+						<gioitinh>Nu</gioitinh>   
+						<nvl>2010</nvl>
+						<hsl>2.67</hsl>
+						<snn>0</snn>
+				 </congty>
+				<congty>
+					<bophan>nvkd</bophan>
+					<manv>002</manv>
+					<tennv>tran thi my le</tennv>
+					<gioitinh>Nu</gioitinh>
+					<nvl>2010</nvl>
+					<hsl>2.67</hsl>
+					<dttt>20000000</dttt>
+					<dsbh>30000000</dsbh>
+				</congty>
+				<congty>
+					<bophan>cb</bophan>
+					<manv>003</manv>
+					<tennv>tran thi my le</tennv>
+					<gioitinh>Nu</gioitinh>
+					<nvl>2010</nvl>
+					<hsl>2.67</hsl>
+					<chucvu>pp</chucvu>
+					<hscv>3.4</hscv>
+				</congty>
+			</congtys>
+		</tcongty>
+		<tcongty>
+			<tencty>bcd</tencty>
+			<congtys>
+				<congty>
+					<manv>004</manv>
+					<tennv>tran thi my le</tennv>
+					<tongluong>20000000</tongluong>
+				</congty>
+				<congty>
+					<manv>005</manv>
+					<tennv>tran thi my le</tennv>
+					<tongluong>10000000</tongluong>
+				</congty>
+			</congtys>
+		</tcongty>
+</tcongtys>
