@@ -1,0 +1,38 @@
+<Monhocs>
+    <MH>
+        <Loai>LT</Loai>
+        <Ma>001</Ma>
+        <Ten>Huong doi tuong</Ten>
+        <SoTc>3</SoTc>
+    </MH>
+    <MH>
+		<loai>TH</loai>
+		<ma>002</ma>
+		<ten>Huong doi tuong</ten>
+		<sotc>3</sotc>
+	</MH>
+	<MH>
+		<loai>DA</loai>
+		<ma>003</ma>
+		<ten>Cong nghe phan mem</ten>
+		<sotc>3</sotc>
+	</MH>
+	<MH>
+		<loai>LT</loai>
+		<ma>001</ma>
+		<ten>Huong doi tuong</ten>
+		<sotc>3</sotc>
+	</MH>
+	<MH>
+		<loai>TH</loai>
+		<ma>002</ma>
+		<ten>Huong doi tuong</ten>
+		<sotc>3</sotc>
+	</MH>
+	<MH>
+		<loai>DA</loai>
+		<ma>003</ma>
+		<ten>Cong nghe phan mem</ten>
+		<sotc>3</sotc>
+	</MH>
+</Monhocs>
